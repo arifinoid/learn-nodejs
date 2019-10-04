@@ -1,0 +1,17 @@
+{
+  "name": "learn-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:arifinoid/learn-nodejs.git",
+  "author": "Rohmad Arifin <rohmadarifin007@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index"
+  },
+  "dependencies": {
+    "express": "4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "1.19.3"
+  }
+}
